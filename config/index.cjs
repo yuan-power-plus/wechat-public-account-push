@@ -13,17 +13,17 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '9b21d2742077cbaaede163e682119758',
 
-  PROVINCE: '四川',
-  CITY: '南充',
+  PROVINCE: '河南',
+  CITY: '信阳',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '小土豆',
+      name: '贾',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
+      id: 'ouTx26hJ5YeR1qEROwk5eK9ttYVc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'LF3ASiGvsLVGdvIrd8jOLlxMtS5WUZXESd0EOauz0Nk',
+      useTemplateId: 'QM4-HqqCWuLz6KCpQy4Oo1Bi3RDSa59bQTRjFN2KRMA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-22',
       horoscopeDateType: '今日',
@@ -35,7 +35,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '小土豆', year: '2024', date: '01-22',
+          type: '生日', name: '贾', year: '2024', date: '01-22',
         },
         {
           type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
