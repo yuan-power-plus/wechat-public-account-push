@@ -13,15 +13,15 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '9b21d2742077cbaaede163e682119758',
 
-  PROVINCE: '四川',
-  CITY: '成都',
+  PROVINCE: '贵州',
+  CITY: '遵义',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '主人',
+      name: '屁王',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
+      id: 'ouTx26nXry3C1OR8vAcVlB_DCob4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'D5iEwaBl_8n1d7fFZae32Q1Yove8NLArpXbEQoQrYiQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
