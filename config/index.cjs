@@ -5,24 +5,6 @@ const USER_CONFIG = {
   
   APP_ID: '',
   APP_SECRET: '',
-  
-
-  MAX_PUSH_ONE_MINUTE: 5,
-  SLEEP_TIME: 65000,
-
-  SWITCH: {
-    weather: true,
-    holidaytts: true,
-    CIBA: true,
-    oneTalk: true,
-    earthyLoveWords: true,
-    momentCopyrighting: true,
-    poisonChickenSoup: true,
-    poetry: true,
-    horoscope: false,
-    birthdayMessage: false,
-    courseSchedule: false,
-  },
 
   USERS: [
     {
