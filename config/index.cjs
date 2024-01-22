@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'wwX3rrthN0IHXkST8ObXDXLjop6Bv7GyaHALTzP71bM',
+      useTemplateId: '1vvwm3gxhGtyd5XDqS3H_XTP_xxIYsoHgJxbn5xXxjI',
     },
   ],
 
