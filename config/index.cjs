@@ -13,17 +13,17 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '9b21d2742077cbaaede163e682119758',
 
-  PROVINCE: '贵州',
-  CITY: '遵义',
+  PROVINCE: '四川',
+  CITY: '南充',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '主人',
+      name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
+      id: '',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'fT7Mfp3B9gixI1dNON6x4pPqjSYaKK_qhRlDwHM23L4',
+      useTemplateId: '',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '主人', year: '2005', date: '09-24',
+          type: '生日', name: '李四', year: '1996', date: '09-31',
         },
         {
           type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
@@ -51,13 +51,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'YS4vAIxWDOX9D15_Fsr1N6OlmNhpT4aJGPDRowLW9vk',
+  CALLBACK_TEMPLATE_ID: '',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
+      id: '',
     }
   ],
 
