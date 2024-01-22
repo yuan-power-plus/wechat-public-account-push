@@ -19,11 +19,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '屁王',
+      name: '主人',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26nXry3C1OR8vAcVlB_DCob4',
+      id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'EvMpHSMJBTuGE480Rj_kfCL9YKW2ZBdh3eZJG8pyDEo',
+      useTemplateId: 'fT7Mfp3B9gixI1dNON6x4pPqjSYaKK_qhRlDwHM23L4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
