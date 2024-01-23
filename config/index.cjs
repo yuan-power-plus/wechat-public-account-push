@@ -24,7 +24,7 @@ const USER_CONFIG = {
           type: '*生日', name: '主人', year: '2005', date: '08-21',
         },
         {
-          type: '*生日',name: '狼牙土豆',year: '2005',data: '06-29',
+          type: '*节日',name: '狼牙土豆',year: '2005',data: '06-29',
         },
       ],
     },
