@@ -18,8 +18,25 @@ const USER_CONFIG = {
       id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'tGkgO5sGyrfsw7JslHpU9CSy90Qau5-qFSKQHGDBktM',
-    }
-    ],
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '主人', year: '2005', date: '08-21',
+        },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 相识的日子
+        { keyword: 'meet_day', date: '2023-09-01' },
+      ],
+    },
+    {
+      // 想要发送的人的名字
+      name: '主人1',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'tGkgO5sGyrfsw7JslHpU9CSy90Qau5-qFSKQHGDBktM',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
