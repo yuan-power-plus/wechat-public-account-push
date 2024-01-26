@@ -15,7 +15,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '主人',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
+      id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'yBVUH7l9YO-ymUdL_l8Y3S2WpvysF71oMY1yqCXWmpg',
       festivals: [
@@ -54,7 +54,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
+      id: 'ouTx26gxwDLnUE7ZxAttBmlArzaU',
     }
   ],
 
