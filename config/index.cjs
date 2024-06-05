@@ -15,13 +15,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '主人',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-
-      horoscopeDate: '9-24',
-      horoscopeDateType: '今日',
-      
       id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Pg2F9BwQZN2GWZKhAOWtloUbwFHqfipMbZeU8VbIJDA',
+      useTemplateId: '-4KYwFXxpA-lkCYQ1DCyShBMxJJlvojSX-OEJHGN7Xg',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -29,6 +25,10 @@ const USER_CONFIG = {
         },
       ],
       FESTIVALS_LIMIT: 0,
+      customizedDateList: [
+        // 相识的日子
+        { keyword: 'meet_day', date: '2023-11-13' },
+      ],
     },
     {
       // 想要发送的人的名字
