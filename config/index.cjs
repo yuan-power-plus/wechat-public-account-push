@@ -23,6 +23,9 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '主人', year: '2005', date: '08-21',
         },
+        {
+          type: '*生日', name: '公主', year: '2005', date: '06-29',
+        },
       ],
     },
     {
