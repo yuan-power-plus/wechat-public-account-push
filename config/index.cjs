@@ -15,14 +15,15 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '主人',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+
+      horoscopeDate: '9-24',
+      horoscopeDateType: '今日',
+      
       id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'X_oWDegdyBtsrZlRPiF7BmzcDXi2VqMUzNK7mK_FbEw',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '主人', year: '2005', date: '08-21',
-        },
         {
           type: '*生日', name: '公主', year: '2005', date: '06-29',isShowAge: true
         },
