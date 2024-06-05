@@ -21,7 +21,7 @@ const USER_CONFIG = {
       
       id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'X_oWDegdyBtsrZlRPiF7BmzcDXi2VqMUzNK7mK_FbEw',
+      useTemplateId: '_J6G2AhdwySFVqlqtuUE8EWDOaYQ3fRe3EmiGG01wLE',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
