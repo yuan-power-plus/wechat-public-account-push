@@ -17,7 +17,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ouTx26nZ9MGO02dPwbalbpiglvV4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'yBVUH7l9YO-ymUdL_l8Y3S2WpvysF71oMY1yqCXWmpg',
+      useTemplateId: 'OeWcZfF8Y6omCl9Qr5HAgKCnOO6_-C7KP3wWP_XW1tw',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -31,7 +31,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ouTx26nIl_cvO19rOiR24YpXb-Zw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'lU4-nYd6UPWsyFkKxjdLeU785pzG2m0PVtWX2hOt25Y',
+      useTemplateId: 'lU4-nYd6UPWsyFkKxjdLeU785pzG2m0PVtWX2hOt25',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
