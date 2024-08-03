@@ -32,24 +32,24 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '狼牙土豆',
+      //name: '狼牙土豆',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouTx26nIl_cvO19rOiR24YpXb-Zw',
+      //id: 'ouTx26nIl_cvO19rOiR24YpXb-Zw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'nLAgJoEiRgC79-I0oHK5tKzUMv-Fgx6flyuXCY3LJFA',
-      festivals: [
+      //useTemplateId: 'nLAgJoEiRgC79-I0oHK5tKzUMv-Fgx6flyuXCY3LJFA',
+      //festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '公主', year: '2005', date: '06-29',isShowAge: true
-        },
-      ],
+       // {
+         // type: '*生日', name: '公主', year: '2005', date: '06-29',isShowAge: true
+       // },
+      //],
       // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
+      //customizedDateList: [
         // 相识的日子
-        { keyword: 'meet_day', date: '2023-11-13' },
-      ],
-    },
-  ],
+        //{ keyword: 'meet_day', date: '2023-11-13' },
+      //],
+   // },
+ // ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
